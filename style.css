@@ -3,3 +3,15 @@
     padding: 0;
 
 }
+
+#body-1{
+    background-color: chocolate;
+}
+
+#body-2{
+    background-color: darkslateblue;
+}
+
+#body-3{
+    background-color: rgba(17, 132, 177, 0.411);
+}
